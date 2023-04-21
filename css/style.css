@@ -1,0 +1,15 @@
+/*  Putina Iasmina-Elena
+	AC CTI-RO AN 3
+	Proiect EGIOC "Sistemul Solar" */
+
+body {
+	background-color: black;
+	margin: 0px;
+	overflow: hidden;
+}
+
+h2{
+	font-family: 'IM Fell DW Pica', serif;
+	text-align: center;
+  	color: grey;
+}
