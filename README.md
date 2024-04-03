@@ -12,12 +12,6 @@ Use the arrow keys to move the camera up, down, left, and right.
 # Installation
 No installation is required to run the simulation.
 
-# Contributing
-Contributions are welcome! If you would like to contribute to the project, please fork the repository and create a pull request with your changes.
-
-# License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 
 
 
